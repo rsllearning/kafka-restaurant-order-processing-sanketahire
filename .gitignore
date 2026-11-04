@@ -44,8 +44,7 @@ out/
 Thumbs.db
 Desktop.ini
 
-# Screen recording binaries (should be hosted or linked, not bloated in git)
+# Screen recording binaries (allow demo walkthrough video)
 *.mp4
-*.mov
 *.mkv
 *.webm
